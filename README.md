@@ -1,7 +1,7 @@
 # Technical Test
 ### Document version 1.0.0
 
-Please read this document entirely befaore continuing the exercise. Failure to comply to these rules will result in the forfeit your application.  
+Please read this document entirely before continuing the exercise. Failure to comply to these rules will result in the forfeit your application.  
 
 - Don’t fork the project
 - Don’t submit a Pull Request on the repo
