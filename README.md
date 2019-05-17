@@ -17,7 +17,7 @@ Do:
 - Reply in English
 
 This first exercise is rather simple and should take at most one hour.  
-Depending on which team you apply to, you should get a specific public repo where some code is present. (Do not worry, this is not how we code at our company)  
+(Do not worry, this is not how we code at our company)  
 The README should tell you what the project is trying to achieve and what are the limitations.  
 You should send us a code review of the first pull request on the list. Each comment should have the one of following format :
 ```
@@ -37,7 +37,7 @@ MyFeature - “Should be renamed to ASCIICat”
 ``` 
 
 Don’t limit your PR review to “this is bad”, please explain why and provide a better solution (in pseudo code) as you would explain it to another developer.  
-We are not looking for an (re)implementation of the presented code at this stage.  
+Create comments either in a markdown formatted mail or a PDF (not both)
 
 
 The second exercise is described in the issues tab on the github project. Don’t start it before receiving the feedback of your review of the first exercise.  
@@ -50,6 +50,7 @@ Don’t use any external frameworks (we know that most of what we asked can be s
 If you need more time, please email us.  
 This is not a speed contest, we do prefer you taking the full allocated time and send us a better solution than rushing for a solution which is sub-optimal.  
 Send us your commit logs attached with your answer.
+Send us a patch file. 
 
 
 # MyFirstSlideshow
